@@ -37,10 +37,10 @@ mogi-landing/
 
 El proyecto está desplegado usando GitHub Pages.
 
-🔗 Enlace del sitio:
+🔗 Enlace del sitio: https://skywalk3rcode.github.io/Seguimiento-2/
 
 ---
 
 ## ⚙️ Instalación y uso
 
-1. Clona el repositorio: 
+1. Clona el repositorio: https://github.com/AsterStar45/Seguimiento-2.git
